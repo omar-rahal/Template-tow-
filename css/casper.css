@@ -241,7 +241,7 @@ header nav .togel-menue {
 .Landing {
   width: 100%;
   height: 100%;
-  background-image: url(/imgs/landing.jpg);
+  background-image: url(../imgs/landing.jpg);
   background-size: cover;
 }
 
@@ -377,7 +377,7 @@ li.active {
 .design {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/imgs/design-features.jpg);
+  background-image: url(../imgs/design-features.jpg);
   background-size: cover;
   height: 600px;
   display: flex;
@@ -615,7 +615,7 @@ li.active {
 .stats {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/imgs/stats.png);
+  background-image: url(../imgs/stats.png);
   background-size: cover;
   position: relative;
   text-align: center;
@@ -824,7 +824,7 @@ li.active {
 .quote {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/imgs/quote.jpg);
+  background-image: url(../imgs/quote.jpg);
   background-size: cover;
   position: relative;
   text-align: center;
@@ -1005,7 +1005,7 @@ a.contact-link {
 /* End Pricing */
 /* Start Subscrip */
 .subscribe {
-  background-image: url(/imgs/subscribe.jpg);
+  background-image: url(../imgs/subscribe.jpg);
   background-size: cover;
   position: relative;
   color: white;
@@ -1178,7 +1178,7 @@ a.contact-link {
 /* End Contact */
 /* start footer  */
 .footer {
-  background-image: url(/imgs/subscribe.jpg);
+  background-image: url(../imgs/subscribe.jpg);
   background-size: cover;
   position: relative;
   padding-top: calc(var(--section-padding) /2);
