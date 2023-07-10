@@ -272,6 +272,8 @@ header nav .togel-menue {
   .over-lay .text {
     width: 100%;
     justify-content: center;
+    max-height: 65%;
+    align-items: center;
   }
 
   .change-background {
